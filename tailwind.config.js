@@ -1,1 +1,1 @@
-export default { content: ['./index.html', './src/**/*.{ts,tsx}'], theme: { extend: {} }, plugins: [] }
+export default {content:['./index.html','./src/**/*.{ts,tsx}'],theme:{extend:{colors:{bg:'#070b14',card:'#0f1729',card2:'#16213a',line:'#1f2c4a',brand:'#2f6bff',ok:'#22c55e',warn:'#facc15',bad:'#ef4444'},fontFamily:{sans:['"Plus Jakarta Sans"','system-ui','sans-serif']}}}}
